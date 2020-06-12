@@ -1,2 +1,2 @@
-# querydsl4sdj
+# querydsl-sdj
 querydsl for spring-data-jpa
