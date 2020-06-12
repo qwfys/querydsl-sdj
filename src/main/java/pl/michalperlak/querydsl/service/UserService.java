@@ -18,5 +18,5 @@ public interface UserService {
 
     List<SubscriptionProjectionBo> getAllSubscriptions();
 
-    void save();
+    //void save();
 }
